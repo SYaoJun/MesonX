@@ -9,3 +9,8 @@ meson build
 cd build
 ninja -j 8
 ```
+## install
+```
+pip3 install meson
+pip3 install ninja
+```
