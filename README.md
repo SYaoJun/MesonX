@@ -15,3 +15,7 @@ ninja -j 8
 pip3 install meson
 pip3 install ninja
 ```
+## epoll
+```shell
+ nc 127.0.0.1 8080
+```
